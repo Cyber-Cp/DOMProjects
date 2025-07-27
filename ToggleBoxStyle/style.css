@@ -1,0 +1,13 @@
+#box{
+    width: 200px;
+    height: 200px;
+    background-color: lightgray;
+    line-height: center;
+    border: 2px solid red;
+    text-align: center;
+}
+.active{
+    background-color: tomato;
+    color: white;
+    font-weight: bold;
+}
